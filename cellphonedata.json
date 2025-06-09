@@ -1,0 +1,898 @@
+[
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "128 GB",
+        "Color": "Green",
+        "Price": 829.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "128 GB",
+        "Color": "Pink",
+        "Price": 829.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "128 GB",
+        "Color": "Black",
+        "Price": 829.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "128 GB",
+        "Color": "Blue",
+        "Price": 829.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "128 GB",
+        "Color": "Yellow",
+        "Price": 829.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "256 GB",
+        "Color": "Green",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "256 GB",
+        "Color": "Pink",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "256 GB",
+        "Color": "Black",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "256 GB",
+        "Color": "Blue",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "256 GB",
+        "Color": "Yellow",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "512 GB",
+        "Color": "Green",
+        "Price": 1129.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "512 GB",
+        "Color": "Pink",
+        "Price": 1129.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "512 GB",
+        "Color": "Black",
+        "Price": 1129.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "512 GB",
+        "Color": "Blue",
+        "Price": 1129.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15",
+        "Storage": "512 GB",
+        "Color": "Yellow",
+        "Price": 1129.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "128 GB",
+        "Color": "Green",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "128 GB",
+        "Color": "Pink",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "128 GB",
+        "Color": "Black",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "128 GB",
+        "Color": "Blue",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "128 GB",
+        "Color": "Yellow",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "256 GB",
+        "Color": "Green",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "256 GB",
+        "Color": "Pink",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "256 GB",
+        "Color": "Black",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "256 GB",
+        "Color": "Blue",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "256 GB",
+        "Color": "Yellow",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "512 GB",
+        "Color": "Green",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "512 GB",
+        "Color": "Pink",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "512 GB",
+        "Color": "Black",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "512 GB",
+        "Color": "Blue",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Plus",
+        "Storage": "512 GB",
+        "Color": "Yellow",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "128 GB",
+        "Color": "White Titanium",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "128 GB",
+        "Color": "Blue Titanium",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "128 GB",
+        "Color": "Black Titanium",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "128 GB",
+        "Color": "Natural Titanium",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "256 GB",
+        "Color": "White Titanium",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "256 GB",
+        "Color": "Blue Titanium",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "256 GB",
+        "Color": "Black Titanium",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "256 GB",
+        "Color": "Natural Titanium",
+        "Price": 1029.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "512 GB",
+        "Color": "White Titanium",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "512 GB",
+        "Color": "Blue Titanium",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "512 GB",
+        "Color": "Black Titanium",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "512 GB",
+        "Color": "Natural Titanium",
+        "Price": 1229.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "1 TB",
+        "Color": "White Titanium",
+        "Price": 1429.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "1 TB",
+        "Color": "Blue Titanium",
+        "Price": 1429.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "1 TB",
+        "Color": "Black Titanium",
+        "Price": 1429.99
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro",
+        "Storage": "1 TB",
+        "Color": "Natural Titanium",
+        "Price": 1429.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24",
+        "Storage": "128 GB",
+        "Color": "Marble Gray",
+        "Price": 799.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24",
+        "Storage": "128 GB",
+        "Color": "Cobalt Violet",
+        "Price": 799.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24",
+        "Storage": "128 GB",
+        "Color": "Amber Yellow",
+        "Price": 799.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24",
+        "Storage": "128 GB",
+        "Color": "Onyx Black",
+        "Price": 799.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24",
+        "Storage": "256 GB",
+        "Color": "Marble Gray",
+        "Price": 859.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24",
+        "Storage": "256 GB",
+        "Color": "Cobalt Violet",
+        "Price": 859.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24",
+        "Storage": "256 GB",
+        "Color": "Amber Yellow",
+        "Price": 859.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24",
+        "Storage": "256 GB",
+        "Color": "Onyx Black",
+        "Price": 859.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24+",
+        "Storage": "256 GB",
+        "Color": "Marble Gray",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24+",
+        "Storage": "256 GB",
+        "Color": "Cobalt Violet",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24+",
+        "Storage": "256 GB",
+        "Color": "Amber Yellow",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24+",
+        "Storage": "256 GB",
+        "Color": "Onyx Black",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24+",
+        "Storage": "512 GB",
+        "Color": "Marble Gray",
+        "Price": 1119.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24+",
+        "Storage": "512 GB",
+        "Color": "Cobalt Violet",
+        "Price": 1119.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24+",
+        "Storage": "512 GB",
+        "Color": "Amber Yellow",
+        "Price": 1119.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24+",
+        "Storage": "512 GB",
+        "Color": "Onyx Black",
+        "Price": 1119.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24 Ultra",
+        "Storage": "256 GB",
+        "Color": "Titanium Black",
+        "Price": 1299.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24 Ultra",
+        "Storage": "256 GB",
+        "Color": "Titanium Violet",
+        "Price": 1299.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24 Ultra",
+        "Storage": "256 GB",
+        "Color": "Titanium Yellow",
+        "Price": 1299.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24 Ultra",
+        "Storage": "256 GB",
+        "Color": "Titanium Gray",
+        "Price": 1299.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24 Ultra",
+        "Storage": "512 GB",
+        "Color": "Titanium Black",
+        "Price": 1419.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24 Ultra",
+        "Storage": "512 GB",
+        "Color": "Titanium Violet",
+        "Price": 1419.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24 Ultra",
+        "Storage": "512 GB",
+        "Color": "Titanium Yellow",
+        "Price": 1419.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S24 Ultra",
+        "Storage": "512 GB",
+        "Color": "Titanium Gray",
+        "Price": 1419.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S23",
+        "Storage": "128 GB",
+        "Color": "Green",
+        "Price": 699.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S23",
+        "Storage": "128 GB",
+        "Color": "Lavender",
+        "Price": 699.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S23",
+        "Storage": "128 GB",
+        "Color": "Cream",
+        "Price": 699.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S23",
+        "Storage": "128 GB",
+        "Color": "Phantom Black",
+        "Price": 699.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S23 Ultra",
+        "Storage": "512 GB",
+        "Color": "Green",
+        "Price": 1379.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A15 5G",
+        "Storage": "128 GB",
+        "Color": "Blue Black",
+        "Price": 199.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Fold5",
+        "Storage": "256 GB",
+        "Color": "Phantom Black",
+        "Price": 1799.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Fold5",
+        "Storage": "256 GB",
+        "Color": "Cream",
+        "Price": 1799.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Fold5",
+        "Storage": "256 GB",
+        "Color": "Icy Blue",
+        "Price": 1799.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Fold5",
+        "Storage": "512 GB",
+        "Color": "Phantom Black",
+        "Price": 1919.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Fold5",
+        "Storage": "512 GB",
+        "Color": "Cream",
+        "Price": 1919.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Fold5",
+        "Storage": "512 GB",
+        "Color": "Icy Blue",
+        "Price": 1919.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip5",
+        "Storage": "256 GB",
+        "Color": "Cream",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip5",
+        "Storage": "256 GB",
+        "Color": "Mint",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip5",
+        "Storage": "256 GB",
+        "Color": "Lavender",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip5",
+        "Storage": "256 GB",
+        "Color": "Graphite",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip5",
+        "Storage": "256 GB",
+        "Color": "Cream",
+        "Price": 1119.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip5",
+        "Storage": "256 GB",
+        "Color": "Mint",
+        "Price": 1119.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip5",
+        "Storage": "256 GB",
+        "Color": "Lavender",
+        "Price": 1119.99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip5",
+        "Storage": "256 GB",
+        "Color": "Graphite",
+        "Price": 1119.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "128 GB",
+        "Color": "Obsidian Black",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "256 GB",
+        "Color": "Obsidian Black",
+        "Price": 10599.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "512 GB",
+        "Color": "Obsidian Black",
+        "Price": 1179.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "128 GB",
+        "Color": "Bay",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "256 GB",
+        "Color": "Bay",
+        "Price": 1059.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "512 GB",
+        "Color": "Bay",
+        "Price": 1179.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "128 GB",
+        "Color": "Porcelain",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "256 GB",
+        "Color": "Porcelain",
+        "Price": 1059.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8 Pro",
+        "Storage": "512 GB",
+        "Color": "Porcelain",
+        "Price": 1179.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8",
+        "Storage": "128 GB",
+        "Color": "Hazel Gray",
+        "Price": 799.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8",
+        "Storage": "256 GB",
+        "Color": "Hazel Gray",
+        "Price": 859.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8",
+        "Storage": "128 GB",
+        "Color": "Obsidian Black",
+        "Price": 799.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8",
+        "Storage": "256 GB",
+        "Color": "Obsidian Black",
+        "Price": 859.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8",
+        "Storage": "128 GB",
+        "Color": "Rose",
+        "Price": 799.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 8",
+        "Storage": "256 GB",
+        "Color": "Rose",
+        "Price": 859.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel Fold",
+        "Storage": "256 GB",
+        "Color": "Obsidian Black",
+        "Price": 1799.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel Fold",
+        "Storage": "512 GB",
+        "Color": "Obsidian Black",
+        "Price": 1919.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 7a",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 549.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 7 Pro",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 1099.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 7",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 699.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 6a",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 399.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 6 Pro",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 999.99
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 6",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 799.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "edge",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 659.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "edge 5G UW",
+        "Storage": "128 GB",
+        "Color": "Nebula Blue",
+        "Price": 549.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "edge 5G UW",
+        "Storage": "256 GB",
+        "Color": "Nebula Blue",
+        "Price": 599.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "moto g stylus 5G",
+        "Storage": "128 GB",
+        "Color": "Steel Blue",
+        "Price": 399.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "edge+ 5G UW",
+        "Storage": "128 GB",
+        "Color": "Stardust Gray",
+        "Price": 849.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "edge+ 5G UW",
+        "Storage": "128 GB",
+        "Color": "Cosmos Blue",
+        "Price": 849.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "edge+ 5G UW",
+        "Storage": "256 GB",
+        "Color": "Stardust Gray",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "edge+ 5G UW",
+        "Storage": "256 GB",
+        "Color": "Cosmos Blue",
+        "Price": 929.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "one 5G UW ace",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 299.99
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "edge+",
+        "Storage": "256 GB",
+        "Color": "Mineral Gray",
+        "Price": 869.99
+    },
+    {
+        "Brand": "Kyocera",
+        "Model": "DuraForce PRO 3",
+        "Storage": "128 GB",
+        "Color": "Black",
+        "Price": 899.99
+    },
+    {
+        "Brand": "Kyocera",
+        "Model": "DuraSport 5G UW",
+        "Storage": "64 GB",
+        "Color": " Black",
+        "Price": 579.99
+    },
+    {
+        "Brand": "Kyocera",
+        "Model": "DuraForce Ultra 5G UW",
+        "Storage": "128 GB",
+        "Color": " Black",
+        "Price": 899.99
+    },
+    {
+        "Brand": "TCL",
+        "Model": "30 V 5G",
+        "Storage": "128 GB",
+        "Color": "Midnight Gray",
+        "Price": 299.99
+    },
+    {
+        "Brand": "TCL",
+        "Model": "10 5G UW",
+        "Storage": "128 GB",
+        "Color": "Diamond Gray",
+        "Price": 399.99
+    }
+]

@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="indexStyle.css" />
+        <script src="operateUpdate.js"></script>
+        <!--<script src="https://requirejs.org/docs/release/2.3.5/minified/require.js"></script>-->
+        <div class="Title">NY Creates Phone Inventory</div>
+    </head>
+
+    <body onload="readJson()">
+        <div id="popupOverlay" class="popup-overlay">
+            <div class="popup-content">
+                <h2>Adding new phone to inventory</h2>
+                <div class="lable-container">
+                    <div class="lable">Brand:  </div>
+                    <div id="newBrand" class="fillBox" contenteditable="true"></div>
+                    <div class="lable">Model:  </div>
+                    <div id="newModel" class="fillBox" contenteditable="true"></div>
+                    <div class="lable">Storage:  </div>
+                    <div id="newStorage" class="fillBox" contenteditable="true"></div>
+                    <div class="lable">Color:  </div>
+                    <div id="newColor" class="fillBox" contenteditable="true"></div>
+                    <div class="lable">Price:  </div>
+                    <div id="newPrice" class="fillBox" contenteditable="true"></div>
+                </div>
+                <div class="empty"><br></div>
+                <botton class="save-button" id="savePopup" onclick="btnSave()">  Save  </botton>
+                <botton class="close-button" id="closePopup" onclick="btnClose()">Close</botton>
+            </div>
+        </div>
+
+        <div class="top-grid">
+            <div class="filter">Filter: </div>
+            <button id="btnAddJson" class="btnAdd" onclick="btnStartAdd()">Add Phone to Inventory</button>
+            <div class="lable-container">
+                <div class="lable">Brand:  </div>
+                <div id="findBrand" class="fillBox" contenteditable="true"></div>
+                <div class="lable">Model:  </div>
+                <div id="findModel" class="fillBox" contenteditable="true"></div>
+                <div class="lable">Storage:  </div>
+                <div id="findStorage" class="fillBox" contenteditable="true"></div>
+                <div class="lable">Color:  </div>
+                <div id="findColor" class="fillBox" contenteditable="true"></div>
+                <div class="lable">Min Price:  </div>
+                <div id="findMinPrice" class="fillBox" contenteditable="true"></div>
+                <div class="lable">Max Price:  </div>
+                <div id="findMaxPrice" class="fillBox" contenteditable="true"></div>
+            </div>
+            <div class="empty"></div>
+            <button id="btnRun" class="btn" onclick="readJson()">Execute Filter</button>
+            <button id="btnClear" class="btn" onclick="clearFilters()">Clear Filters</button>
+            <button id="btnSoldSelected" onclick="soldPhones()">Remove the Selected Phones From List</button>
+        </div>
+
+        <div id="table-container"></div>
+        
+    </body>
+</html>
